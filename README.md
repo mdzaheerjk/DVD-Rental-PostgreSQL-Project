@@ -44,9 +44,7 @@ There are 15 tables in the DVD Rental database:
 - city – stores city names.
 - country – stores country names.
 
-## 🌐 Dataset
-- [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
-- [Download Here](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/tree/main/dataset)
+
 
 📝 To restore a .tar file in pgAdmin, follow these steps:
 ```
